@@ -1,22 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package pos.system;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author QCU
- */
+
 public class Employee_loginpage extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Employee_loginpage
-     */
+  
     public Employee_loginpage() {
         this.setExtendedState(JFrame.MAXIMIZED_BOTH);
         initComponents();
